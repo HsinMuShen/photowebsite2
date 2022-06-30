@@ -1,5 +1,4 @@
-import React, { useEffect } from "react";
-import Search from "../components/Search";
+import React from "react";
 import Pictrue from "../components/Picture";
 
 class Homepage extends React.Component {
